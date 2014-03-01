@@ -24,7 +24,7 @@ class carPiceDes(wx.Frame):
  
     def __init__(self):
         wx.Frame.__init__(self, None, wx.ID_ANY,
-                          "CENIDET", size=(350, 170))
+                          "carPice", size=(350, 170))
 #-----build interface-----
         panel = wx.Panel(self, wx.ID_ANY)
         vbox = wx.BoxSizer(wx.VERTICAL)     
@@ -112,11 +112,6 @@ class carPiceDes(wx.Frame):
             and keycode != 317 and keycode != 68 and keycode != 80):
             print "No la tengo registrada"
         event.Skip()
-           
-    piface.digital_write(0,0)
-    piface.digital_write(1,0)
-    piface.digital_write(2,0)
-    piface.digital_write(3,0)
  
 # Run the program
 if __name__ == "__main__":
