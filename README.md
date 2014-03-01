@@ -17,4 +17,4 @@ carPiceCon.py:
 ![alt text](https://dl.dropboxusercontent.com/u/12001689/carPiceCon.png "carPiCon.py corriendo")
 
 carPiceDes.py:
-![alt text](https://dl.dropboxusercontent.com/u/12001689/carPiceCon.png "carPiDes.py corriendo")
+![alt text](https://dl.dropboxusercontent.com/u/12001689/carPiceDes.png "carPiDes.py corriendo")
