@@ -3,7 +3,7 @@ El proyecto esta divido en dos archivos los cuales practicamente tienen la misma
 
 ## Dependencias:
 1. pifacedigitalio
-2. Wxpython *solo para el archivo **carPiceDes.py***
+2. Wxpython *solo para el archivo* **carPiceDes.py**
 
 ## Instalación de dependencias (Raspbian)
 1. apt-get update && apt-get upgrade
