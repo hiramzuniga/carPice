@@ -18,3 +18,8 @@ carPiceCon.py:
 
 carPiceDes.py:
 ![alt text](https://dl.dropboxusercontent.com/u/12001689/carPiceDes.png "carPiDes.py corriendo")
+
+## Video de funcionamiento
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UuVHq9Ml5Rc
+" target="_blank"><img src="http://img.youtube.com/vi/UuVHq9Ml5Rc/0.jpg" 
+alt="carPiceCon.py funcionando" width="240" height="180" border="10" /></a>
